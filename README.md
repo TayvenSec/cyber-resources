@@ -1,4 +1,14 @@
-## 📘 Cybersecurity Articles
+# TayvenSec Cyber Resources 🛡️
+
+TayvenSec is my cybersecurity publication focused on practical, modern, and jargon‑free security content.  
+I write for real security teams, everyday users, and anyone building cyber capability the right way — with clarity, structure, and repeatable processes.
+
+Explore all articles at:  
+🔗 https://tayvensec.com
+
+Below is a curated index of my cybersecurity writing, including NIST CSF 2.0 guides, a complete Incident Response Plan (IRP) example, vulnerability management content, and Everyday Cyber resources.
+
+---
 
 ### 🔥 Incident Response & NIST CSF 2.0
 - Complete IRP Example (NIST CSF 2.0)  
