@@ -1,9 +1,10 @@
 # TayvenSec Blog Posts
 
-*Last synced: 2026-08-17*
+*Last synced: 2026-08-24*
 
 | Title | Link |
 |-------|------|
+| Why Continuous Study Shapes Your Career and Life: A Personal Journey Through IT, Burnout, and Cyber Security | https://tayvensec.com/why-you-should-keep-studying-throughout-your-career-and-life/ |
 | How to Think About the CIA Triad During Real Security Work | https://tayvensec.com/how-to-think-about-the-cia-triad/ |
 | Incident Response Series Round‑Up: IRP, PIR, Tabletop Exercises & NIST CSF 2.0 | https://tayvensec.com/incident-response-series-round-up/ |
 | Writing Every Week Made Me a Better Writer (Seven Months In) | https://tayvensec.com/writing-every-week-made-me-a-better-writer/ |
@@ -13,4 +14,3 @@
 | KEV + End‑of‑Life Tracking Tool | https://tayvensec.com/two-free-security-tools-kev-eol-tracker/ |
 | ATO Tax Scams: How to Spot One and What to Look Out For | https://tayvensec.com/ato-tax-scams-how-to-spot-one/ |
 | Patch Management Automation Tool | https://tayvensec.com/patch-tuesday-tracker-free-automated-patch-intelligence/ |
-| How to Create a Participant Handout for a Cybersecurity Tabletop Exercise | https://tayvensec.com/cybersecurity-tabletop-participant-handout/ |
