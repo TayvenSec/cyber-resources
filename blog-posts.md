@@ -1,9 +1,10 @@
 # TayvenSec Blog Posts
 
-*Last synced: 2026-08-24*
+*Last synced: 2026-08-31*
 
 | Title | Link |
 |-------|------|
+| Why Post‑Quantum Cryptography Matters Right Now | https://tayvensec.com/why-post-quantum-cryptography-matters-right-now/ |
 | Why Continuous Study Shapes Your Career and Life: A Personal Journey Through IT, Burnout, and Cyber Security | https://tayvensec.com/why-you-should-keep-studying-throughout-your-career-and-life/ |
 | How to Think About the CIA Triad During Real Security Work | https://tayvensec.com/how-to-think-about-the-cia-triad/ |
 | Incident Response Series Round‑Up: IRP, PIR, Tabletop Exercises & NIST CSF 2.0 | https://tayvensec.com/incident-response-series-round-up/ |
@@ -13,4 +14,3 @@
 | The Complete Guide to NIST CSF 2.0 Mappings: Functions, Categories & Outcomes (And How to Use Them) | https://tayvensec.com/nist-csf-2-0-functions-categories-outcomes-guide/ |
 | KEV + End‑of‑Life Tracking Tool | https://tayvensec.com/two-free-security-tools-kev-eol-tracker/ |
 | ATO Tax Scams: How to Spot One and What to Look Out For | https://tayvensec.com/ato-tax-scams-how-to-spot-one/ |
-| Patch Management Automation Tool | https://tayvensec.com/patch-tuesday-tracker-free-automated-patch-intelligence/ |
