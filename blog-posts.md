@@ -1,9 +1,10 @@
 # TayvenSec Blog Posts
 
-*Last synced: 2026-10-19*
+*Last synced: 2026-10-26*
 
 | Title | Link |
 |-------|------|
+| How to Protect Yourself on Public Wi-Fi | https://tayvensec.com/how-to-protect-yourself-on-public-wifi/ |
 | How to Check if Your Email Has Been Exposed in a Data Breach | https://tayvensec.com/check-email-data-breach/ |
 | How to Create Strong Passwords Without Writing Them Down | https://tayvensec.com/how-to-create-strong-passwords/ |
 | Why Does My Text Message Say “Unverified”? Australia’s New SMS Scam Protection Explained | https://tayvensec.com/unverified-text-message-australia/ |
@@ -13,4 +14,3 @@
 | Incident Response Series Round‑Up: IRP, PIR, Tabletop Exercises & NIST CSF 2.0 | https://tayvensec.com/incident-response-series-round-up/ |
 | What Seven Months of Publishing Taught Me About Security Communication | https://tayvensec.com/writing-every-week-made-me-a-better-writer/ |
 | How to Use Your IRP During an Incident (Aligned to NIST CSF 2.0) | https://tayvensec.com/use-incident-response-plan-during-live-incident/ |
-| “Hi Dad, I Dropped My Phone”: How to Spot This Scam And What To Do If You Get One | https://tayvensec.com/hi-mum-hi-dad-scam-australia/ |
