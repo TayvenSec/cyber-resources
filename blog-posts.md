@@ -1,6 +1,6 @@
 # TayvenSec Blog Posts
 
-*Last synced: 2026-11-16*
+*Last synced: 2026-11-23*
 
 | Title | Link |
 |-------|------|
